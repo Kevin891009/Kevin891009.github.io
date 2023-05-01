@@ -10,3 +10,11 @@ font-family: 'Noto Sans TC', sans-serif;
   font-family: 'NoTo Sans TC' ,sans-serif;
   text-transform:none;
 }
+
+.expedu_icon {
+  color: #495057;
+}
+.expedu_icon:hover {
+  background-color:#495057;
+  color: #fff;
+}
