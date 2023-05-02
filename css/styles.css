@@ -70,6 +70,17 @@
   background-color:#495057;
   color: #fff;
 }
+
+.expedu_icon:hover{
+  color:var(--bs-secondary);
+}
+a{
+  color:var(--bs-primary);
+}
+.social-icons .social-icon:hover{
+  background-color:var(--bs-secondary);
+}
+
 *,
 *::before,
 *::after {
